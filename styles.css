@@ -1,0 +1,43 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.introduction{
+    margin-top: 50px;
+}
+.jumbotron{
+    margin-bottom:0;
+
+}
+.arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #1b1d1f;
+  margin:auto;
+  margin-bottom: 5px;
+}
+.middle-text{
+    padding:0;
+    margin-left:40%;
+    font-weight:bold;
+    margin-bottom:1px;
+}
+
+.footer{
+    margin-bottom: 10px;
+}
+.hobbies{
+    padding:20px;
+}
+.list-group{
+    width:50%;
+}
+.hitme{
+    padding: 20px;
+}
+form{
+    width:30%;
+    margin-left:20px;
+}
